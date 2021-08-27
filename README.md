@@ -1,2 +1,2 @@
 # aws-training
-All notes from my training is recorded here
+All that you need to start enjoying the work in AWS
